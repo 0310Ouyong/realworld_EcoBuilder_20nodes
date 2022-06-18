@@ -1,0 +1,2 @@
+# realworld_EcoBuilder_3010nodes
+从realworld_EcoBuilder_3010nodes.R中根据EcoBuildersummary10nodes.RData和whole_reproduce_Empiwebs_30nodes.RData将两份数据整理成相同格式，保存为realworld_EcoBuilder_3010nodes.RData
